@@ -178,6 +178,38 @@ task-api-a2/
 
 ---
 
+# Screenshots
+
+This repository includes the following screenshot files from the `assets` folder:
+
+- `assets/1_localhost_docs.png`
+- `assets/2_get.png`
+- `assets/3_post.png`
+- `assets/4_put_tasks_id.png`
+- `assets/5_delete_task.png`
+- `assets/6_api_info.png`
+- `assets/7_api_health.png`
+- `assets/8_api_statistics.png`
+- `assets/9_api_validation_schemas.png`
+- `assets/architecture.png`
+- `assets/VSCode Interface.png`
+
+<p align="center">
+  <img src="assets/1_localhost_docs.png" alt="Localhost API docs" width="500">
+  <img src="assets/2_get.png" alt="GET request screenshot" width="500">
+  <img src="assets/3_post.png" alt="POST request screenshot" width="500">
+  <img src="assets/4_put_tasks_id.png" alt="PUT request screenshot" width="500">
+  <img src="assets/5_delete_task.png" alt="DELETE request screenshot" width="500">
+  <img src="assets/6_api_info.png" alt="API info screenshot" width="500">
+  <img src="assets/7_api_health.png" alt="API health screenshot" width="500">
+  <img src="assets/8_api_statistics.png" alt="API statistics screenshot" width="500">
+  <img src="assets/9_api_validation_schemas.png" alt="API validation schemas screenshot" width="500">
+  <img src="assets/architecture.png" alt="Architecture diagram" width="500">
+  <img src="assets/VSCode Interface.png" alt="VS Code interface screenshot" width="500">
+</p>
+
+---
+
 # Getting Started
 
 ## Clone the Repository
