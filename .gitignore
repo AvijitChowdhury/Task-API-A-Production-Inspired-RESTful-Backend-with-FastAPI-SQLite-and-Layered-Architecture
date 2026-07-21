@@ -1,0 +1,19 @@
+# SQLite database file — each clone creates its own fresh copy
+tasks.db
+ai-version/tasks.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
